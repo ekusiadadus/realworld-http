@@ -2,6 +2,7 @@
   "conventionalCommits.scopes": [
     "Init",
     "Go",
-    "Ryst"
+    "Rust",
+    "VSCode"
   ]
 }
