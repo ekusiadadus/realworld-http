@@ -1,5 +1,8 @@
 {
   "conventionalCommits.scopes": [
-    "Init"
+    "Init",
+    "Go",
+    "Rust",
+    "VSCode"
   ]
 }
