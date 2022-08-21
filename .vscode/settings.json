@@ -1,5 +1,7 @@
 {
   "conventionalCommits.scopes": [
-    "Init"
+    "Init",
+    "Go",
+    "Ryst"
   ]
 }
