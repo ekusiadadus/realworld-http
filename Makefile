@@ -1,9 +1,14 @@
 .phony:
 
-build:
+go-build:
 	go build -o realworld-http
 
-run:
+go-run:
 	go run main.go
 
+rust-build:
+	cd rust&cargo build
+
+rust-run:
+	cd rust&cargo run
 
